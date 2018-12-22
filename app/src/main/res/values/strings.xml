@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">OBurger</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="Beef">Beef</string>
+    <string name="BeefText1">O|BBQ Beef</string>
+    <string name="BeefText2"> From 140 Egp </string>
+    <string name="BeefText3">O|Combo Beef</string>
+    <string name="BeefText4"> From 150 Egp </string>
+    <string name="BeefText5">O|Cheese Beef</string>
+    <string name="BeefText6"> From 299 Egp </string>
+    <string name="BeefText7">O|Super Beef</string>
+    <string name="BeefText8"> From 399 Egp </string>
+
+
+    <string name="Beverages">O|Juice</string>
+    <string name="bev1">O|Sprite®</string>
+    <string name="bev2">From 100 Egp</string>
+    <string name="bev3">O|Diet Coke® </string>
+    <string name="bev4"> From 488 Egp </string>
+    <string name="bev5">O|Absinthe </string>
+    <string name="bev6"> From 215 Egp </string>
+    <string name="bev7">O|Grand Marnier </string>
+    <string name="bev8"> From 135 Egp </string>
+    <string name="bev9">O|Kir</string>
+    <string name="bev10">O|Calvados </string>
+    <string name="bev11">O|Chambord </string>
+    <string name="bev12">O|Eaux de Vie </string>
+
+
+    <string name="Bundle">Bundle</string>
+    <string name="Bundle1">O|Mix 2 MealMix 2 Meal</string>
+    <string name="Bundle2">From 250 Egyp </string>
+    <string name="Bundle3">O|Share Box </string>
+    <string name="Bundle4"> From 250 Egyp</string>
+    <string name="Bundle5">O|Chicken Pot Pie Stromboli </string>
+    <string name="Bundle6"> From 360 Egyp</string>
+    <string name="Bundle7">O|Traditional Pork Chops </string>
+    <string name="Bundle8"> From 388 Egyp</string>
+    <string name="Bundle9">O|Chili Cheese Zucchini Boats </string>
+    <string name="Bundle10"> From 470 Egyp</string>
+
+
+    <string name="Chicken">Chicken</string>
+    <string name="Chicken1">O|Crispy Tenders</string>
+    <string name="Chicken2">From 299 Egyp </string>
+    <string name="Chicken3">O|Classic Chicken Spisy</string>
+    <string name="Chicken4"> From 159 Egyp</string>
+    <string name="Chicken5">O|Chicken Mix</string>
+    <string name="Chicken6"> From 459 Egyp</string>
+    <string name="Chicken7">O|Big Chicken BOOM!</string>
+    <string name="Chicken8"> From 200 Egyp</string>
+
+
+    <string name="Desserts">Dessert</string>
+    <string name="dessertText1">O|McFlurry Twix </string>
+    <string name="dessertText2">From 140 Egp  </string>
+    <string name="dessertText3">O|McFlurry Snickers </string>
+    <string name="dessertText4"> From 115 Egp </string>
+    <string name="dessertText5">O|Galaxy Chocloatae </string>
+    <string name="dessertText6"> From 140 Egp </string>
+    <string name="dessertText7">O|Bubby Creemae </string>
+    <string name="dessertText8"> From 105 Egp </string>
+
+
+    <string name="Fish">Fish</string>
+    <string name="fish1">O|Sandwitch Fish</string>
+    <string name="fish2">From 250 Egyp </string>
+    <string name="fish3">O|Meal Fish</string>
+    <string name="fish4"> From 150 Egyp</string>
+    <string name="fish5">O|Fish Meal Mix Spisy</string>
+    <string name="fish6"> From 150 Egyp</string>
+    <string name="fish7">O|Sea Food Sandwitch </string>
+    <string name="fish8">From 299 Egyp</string>
+
+</resources>

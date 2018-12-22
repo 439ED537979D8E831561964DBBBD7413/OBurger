@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/FoodPage"
+            android:icon="@drawable/food"
+            android:title="Food" />
+        <item
+            android:id="@+id/Location"
+            android:icon="@drawable/iconss"
+            android:title="Location" />
+        <item
+            android:id="@+id/Account"
+            android:icon="@drawable/acc"
+            android:title="MyAccount" />
+        <item
+            android:id="@+id/offers"
+            android:icon="@drawable/offers"
+            android:title="Offers" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/aboutus"
+                android:icon="@drawable/about"
+                android:title="About Us" />
+
+        </menu>
+    </item>
+
+
+</menu>

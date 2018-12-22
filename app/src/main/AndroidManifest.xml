@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dell1.oburger">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/oburger"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DessertTap" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".BeefTap" />
+        <activity android:name=".ChickenTap" />
+        <activity android:name=".FishTap" />
+        <activity android:name=".BundleTap" />
+        <activity android:name=".BeveragesTap" />
+        <activity android:name=".BeefDetails" />
+        <activity android:name=".BeveragesDetails" />
+        <activity android:name=".BundleDetails" />
+        <activity android:name=".ChickenDetails" />
+        <activity android:name=".DessertDetails" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".AboutUsActivity" />
+        <activity
+            android:name=".SideMenu"
+            android:theme="@style/AppTheme.NoActionBar">>
+        </activity>
+        SideMenu
+        <activity android:name=".FishDetails" />
+        <activity android:name=".OffersActivity" />
+    </application>
+
+</manifest>
